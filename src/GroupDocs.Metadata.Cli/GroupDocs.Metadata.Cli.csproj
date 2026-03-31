@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
 		<OutputType>Exe</OutputType>
-		<Version>25.10.0</Version>
+		<Version>26.3.0</Version>
 		<AssemblyName>groupdocs-metadata</AssemblyName>
 		<StrongNameKeyId>GroupDocsMetadataCli</StrongNameKeyId>
 		<SignAssembly>true</SignAssembly>
@@ -38,7 +38,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<PackageReference Include="GroupDocs.Metadata" Version="25.10.0" />
+		<PackageReference Include="GroupDocs.Metadata" Version="26.3.0" />
 	</ItemGroup>
 
 	<ItemGroup>

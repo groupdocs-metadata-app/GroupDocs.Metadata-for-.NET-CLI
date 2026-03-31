@@ -19,7 +19,7 @@
       Note: GroupDocs.Metadata for .NET will run in evaluation mode. In order to test full features of the product, please request a free 30-day temporary license.
     </description>
     <summary>Read, edit, export, remove, copy, and find document metadata - intuitive and powerful GroupDocs.Metadata dotnet tool CLI.</summary>
-    <copyright>Copyright (c) 2025 GroupDocs.Metadata Product Family</copyright>
+    <copyright>Copyright (c) 2026 GroupDocs.Metadata Product Family</copyright>
     <tags>
       metadata edit-metadata read-metadata export-metadata document-properties metadata-cleaner metadata-cleanup remove-metadata search-metadata find-metadata copy-metadata XMP-editor EXIF IPTC ID3 MIME MIME-type word DOC DOCX XLS XLSX powerpoint PPT PPTX visio VSD VSDX MPP ONE ODP ODS ODT PDF DWG EML MSG BMP DJVU JPG PSD TIFF MP3 WAV AVI FLV MKV QT EPUB OTF TTF ZIP HEIF
     </tags>
